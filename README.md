@@ -1,7 +1,6 @@
 ## Hi, I'm Michael 👋
 
-Computational biologist in Vienna, working where biology, data and software meet.
-I lead the computational team at a biotech and build the tools that let scientists analyse their own data.
+Computational biologist and data scientist in Vienna, working where biology, data and software meet. I lead the computational team at a biotech, building analyses and tools that help experimental teams make use of their data.
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,pytorch,docker,linux,git,gcp" alt="Python, FastAPI, SQLite, PyTorch, Docker, Linux, Git, GCP" />
 
@@ -10,7 +9,7 @@ I lead the computational team at a biotech and build the tools that let scientis
 ```python
 michael = {
     "job": "Group Leader Data Science @ a Vienna biotech",
-    "builds": ["web apps for scientists", "image-analysis pipelines", "ML models", "servers & cloud setups"],
+    "builds": ["Jupyter notebooks for data analysis", "tools for experimental teams", "image-analysis and ML workflows"],
     "codes_in": ["Python", "SQL", "Bash", "R when needed"],
     "front_ends": "built with Claude Code; I'm a back-end person",
     "off_duty": ["bouldering", "running", "ancient history", "learning Italian 🇮🇹"],
@@ -19,10 +18,9 @@ michael = {
 
 ### 🔒 Most of my work is private. Here's the gist
 
-- 🧪 **Assay platform:** one web app that takes lab data from raw numbers through quality control into the company database
-- 🔬 **Image analysis:** a pipeline that has analysed millions of microscopy images from a compound screen
-- 🧰 **Self-service tools:** small apps so lab colleagues can run their own analyses
-- 🖥️ **The plumbing:** computing, cloud and data storage, set up from scratch
+- 📊 **Data analysis:** Jupyter notebooks for exploring experimental data, testing ideas, and finding patterns
+- 🧪 **Tools for experimental teams:** apps and pipelines that turn repeatable analyses into end-to-end workflows colleagues can run themselves
+- 🔬 **Applied data science:** image analysis, machine learning, and data processing for biological questions
 
 ### 🛤️ How I got here
 
@@ -32,8 +30,8 @@ Along the way: 23 publications, for example on how drug combinations interact, r
 
 ### 📌 Public projects
 
-- **[MultiOme](https://github.com/mcaldera/MultiOme):** explore gene connectivity across biological scales
-- **[MuPeXI](https://github.com/mcaldera/MuPeXI):** predict neo-epitopes from tumour sequencing data
+- **[LexiNet (Plexus)](https://github.com/mcaldera/lexinet):** a language-learning app that turns vocabulary into a growing map of connected words
+- **[Perturbome](https://github.com/mcaldera/Perturbome):** Jupyter-based analysis code for mapping interactions among cellular perturbations and reproducing results from the published study
 
 ### 📫 Find me
 
