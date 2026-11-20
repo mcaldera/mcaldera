@@ -32,6 +32,7 @@ Along the way: 23 publications, for example on how drug combinations interact, r
 
 - **[LexiNet (Plexus)](https://github.com/mcaldera/lexinet):** a language-learning app that turns vocabulary into a growing map of connected words
 - **[Perturbome](https://github.com/mcaldera/Perturbome):** Jupyter-based analysis code for mapping interactions among cellular perturbations and reproducing results from the published study
+- **[Wiener Durst (Dionysus)](https://github.com/mcaldera/dionysus):** a data-driven Vienna bar-tour planner combining transit-aware route optimisation with an interactive venue-similarity Atlas
 
 ### 📫 Find me
 
