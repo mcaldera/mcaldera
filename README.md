@@ -8,10 +8,8 @@ I lead the computational team at a biotech and build the tools that let scientis
 ```python
 michael = {
     "job": "Group Leader Data Science @ a Vienna biotech",
-    "builds": ["web apps for scientists", "image-analysis pipelines", "ML models", "servers & cloud setups"],
+    "builds": ["data science","web apps for scientists", "image-analysis pipelines", "ML models", "servers & cloud setups"],
     "codes_in": ["Python", "SQL", "Bash", "R when needed"],
-    "front_ends": "built with Claude Code; I'm a back-end person",
-    "off_duty": ["bouldering", "running", "ancient history", "learning Italian 🇮🇹"],
 }
 ```
 
