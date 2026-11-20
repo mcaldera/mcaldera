@@ -23,7 +23,7 @@ michael = {
 
 ### 🛤️ How I got here
 
-`HTL (informatics)` → `Biology in Vienna & Milan` → `ETH Zürich` → `PhD in computational biology` → `first data scientist at a biotech` → `leading the team`
+`HTL (informatics)` → `Biology in Vienna & Milan` → `ETH Zürich` → `PhD in computational biology` → `first data scientist at Proxygen` → `leading the team`
 
 Along the way: 23 publications, for example on how drug combinations interact, read from images of cells ([Nature Communications 2019](https://doi.org/10.1038/s41467-019-13058-9)). The full list is on [Google Scholar](https://tinyurl.com/Caldera-pubs).
 
