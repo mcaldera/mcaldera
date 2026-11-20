@@ -12,7 +12,6 @@ michael = {
     "builds": ["Jupyter notebooks for data analysis", "tools for experimental teams", "image-analysis and ML workflows"],
     "codes_in": ["Python", "SQL", "Bash", "R when needed"],
     "front_ends": "built with Claude Code; I'm a back-end person",
-    "off_duty": ["bouldering", "running", "ancient history", "learning Italian 🇮🇹"],
 }
 ```
 
