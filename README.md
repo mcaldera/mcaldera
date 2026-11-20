@@ -18,6 +18,7 @@ michael = {
 ### 🔒 Most of my work is private. Here's the gist
 
 - 📊 **Data analysis:** Jupyter notebooks for exploring experimental data, testing ideas, and finding patterns
+- 🏗️ **Pipelines at scale:** automated, reproducible pipelines that take large experimental datasets (imaging, omics, screening data) from raw data to results
 - 🧪 **Tools for experimental teams:** apps and pipelines that turn repeatable analyses into end-to-end workflows colleagues can run themselves
 - 🔬 **Applied data science:** image analysis, machine learning, and data processing for biological questions
 
